@@ -3,6 +3,7 @@ import React, { useState } from "react";
 import Button from "../../UI/Button/Button";
 import styles from "./CourseInput.module.css";
 
+//  Styled componennt attitude
 // const FormControl = styled.div`
 //   margin: 0.5rem 0;
 
